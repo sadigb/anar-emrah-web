@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "about": "Haqqımda",
+    "services": "Xidmətlər",
+    "media": "Media",
+    "science": "Elmi Fəaliyyət",
+    "reviews": "Pasiyent Rəyləri",
+    "gallery": "Qalereya",
+    "faq": "Suallar",
+    "articles": "Məqalələr",
+    "contact": "Əlaqə"
+  },
+  "hero": {
+    "title": "Ürək-Damar Cərrahı Dr. Anar Əmrah",
+    "subtitle": "Müasir cərrahi üsullar və peşəkar tibbi xidmət",
+    "appointment": "Qəbula Yazıl"
+  }
+}
